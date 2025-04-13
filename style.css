@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #fff;
+    text-align: center;
+}
+
+header h1 {
+    color: #ff6347; /* Tomato Red */
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
+}
+
+/* Style for sections or ARG related content */
+section#introduction {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 5px;
+}
